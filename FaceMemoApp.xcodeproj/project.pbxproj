@@ -701,7 +701,6 @@
 			isa = PBXGroup;
 			children = (
 				A82DAEFB2C20880E00E18665 /* Views */,
-				A82DAEFA2C20880C00E18665 /* Models */,
 				A82DAEF92C20880700E18665 /* ViewModels */,
 			);
 			path = Home;
@@ -713,13 +712,6 @@
 				A8BF68172C2FCDE80005AE43 /* HomeViewModel.swift */,
 			);
 			path = ViewModels;
-			sourceTree = "<group>";
-		};
-		A82DAEFA2C20880C00E18665 /* Models */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Models;
 			sourceTree = "<group>";
 		};
 		A82DAEFB2C20880E00E18665 /* Views */ = {
@@ -1755,7 +1747,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"FaceMemoApp/Preview Content\"";
-				DEVELOPMENT_TEAM = 75V8MNX2FX;
+				DEVELOPMENT_TEAM = 22TLGNX39J;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "Face memo";
@@ -1774,7 +1766,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0.2;
-				PRODUCT_BUNDLE_IDENTIFIER = com.zaib.facememo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vusalnuriyev.facememo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -1794,7 +1786,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"FaceMemoApp/Preview Content\"";
-				DEVELOPMENT_TEAM = 75V8MNX2FX;
+				DEVELOPMENT_TEAM = 22TLGNX39J;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "Face memo";
@@ -1813,7 +1805,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0.2;
-				PRODUCT_BUNDLE_IDENTIFIER = com.zaib.facememo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vusalnuriyev.facememo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;

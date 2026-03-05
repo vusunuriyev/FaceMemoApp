@@ -24,7 +24,7 @@ class Constants {
     
     // DeepAR License Key
     /// - Use license key to use DeepAR's filters
-    static let deepARLicenseKey: String = "7d247769fbca297905489d214fa8d2460654598df54bacaaf92ca44528667f8988ac4f63e8746551"
+    static let deepARLicenseKey: String = "be2bbb3106b85aae275f539f4ac137b9413f3077dbae7ca5c2e06747a1ccb6279489a71489164aca"
     
     // MARK: - All CG Values
     
